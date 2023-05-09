@@ -1,0 +1,27 @@
+@import "/node_modules/bootstrap/scss/bootstrap";
+
+body{
+    background-color: rgb(86, 86, 136);
+}
+
+h1{
+    color:rgb(17, 12, 12);
+    font-size: 6rem;
+    font-weight: lighter;
+}
+
+.my_container{
+    width: 40%;
+    margin: auto;
+    background-color: rgb(201, 174, 140);
+    border-radius: 0 20px 0 20px;
+
+}
+
+input{
+    width: 250px;
+}
+
+.done{
+    text-decoration: line-through;
+}
